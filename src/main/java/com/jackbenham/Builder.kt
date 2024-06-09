@@ -1,5 +1,5 @@
 package com.jackbenham
 
 interface Builder<T> {
-    val build: T
+    val buildResult_: T
 }
